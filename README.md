@@ -1,1 +1,1 @@
-***Neste diretório eu guardo programas que utilizam programação atráves da lib OpenMP***
+***Neste diretório eu guardo programas que utilizam programação paralela atráves da lib OpenMP***
